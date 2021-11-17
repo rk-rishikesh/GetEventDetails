@@ -1,6 +1,6 @@
 # Problem Statement
 
-> Given a contract address, catch the details of all the transfer events from that contract.
+> Given a contract address, catch the details of all the transfer events from that contract using web3
 
 # Steps for execution
 
