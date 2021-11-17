@@ -1,0 +1,14 @@
+{
+  "name": "polygon",
+  "version": "1.0.0",
+  "description": "Polygon Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishikesh Kale",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.6.1"
+  }
+}
