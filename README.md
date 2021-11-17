@@ -1,6 +1,6 @@
 # Problem Statement
 
-> Given a contract address, catch the details of all the transfer events from that contract using web3
+> Given a contract address deployed on polygon network, catch the details of all the transfer events from that contract using web3
 
 # Steps for execution
 
@@ -18,7 +18,7 @@
 ```
 ### Contract Details
 
-Contract : 0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174
+Contract : https://polygonscan.com/address/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174
 
 ## Output
 
